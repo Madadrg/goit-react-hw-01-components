@@ -11,8 +11,6 @@ import TransactionHistory from './TransactionHistory/TransactionHistory';
 import transactions from './TransactionHistory/transactions.json';
 
 export const App = () => {
-  const text = 'Hello World!';
-
   return (
     <>
       <Profile
